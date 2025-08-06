@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lt6f2hbil-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lt6f2hbil-go-gitops
